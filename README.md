@@ -3,8 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
 <a href="https://github.com/annatld/prompts-recipe-to-create-a-ebook" title="View PDF now"> 📕Clique aqui para ler</a>
 
